@@ -22,7 +22,7 @@
 I offer freelance services as a professional web apps developer. If you need a high‑quality application or website, feel free to contact me. I’m ready to help bring your digital needs to life with creative and effective solutions.
 
 - Email: <a href="mailto:rizkyputraednar@gmail.com">rizkyputraednar@gmail.com</a>
-- HP: <a href="https://wa.me/6282230555507">082230555507</a>
+- Whatsapp: <a href="https://wa.me/6282230555507">+6282230555507</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/rizky-p-b658371ba/">rizky-p-b658371ba</a>
 
 ## Experience
