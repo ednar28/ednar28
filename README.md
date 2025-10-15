@@ -48,11 +48,11 @@ Jan 2021 – Dec 2024 · Surabaya, East Java, Indonesia
 - Defined features such as goods sales, store promotions, and special items.
 - Tech: Laravel, Vue.js, and 3+ related skills.
 
-## Contoh Code
+## Example Code
 - Backend: https://github.com/ednar28/crm-simple
 - Frontend: https://github.com/ednar28/movie-web
 
-## Statistik
+## Statistics
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ednar28&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
