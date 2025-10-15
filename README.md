@@ -1,4 +1,4 @@
-# Halo, aku **Rizky Putra Ednar** 👋
+# Hi, I'm **Rizky Putra Ednar** 👋
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ednar28&color=brightgreen"><img src="https://komarev.com/ghpvc/?username=ednar28&color=brightgreen" alt="profile views"></a>
@@ -10,15 +10,15 @@
   <img src="https://skillicons.dev/icons?i=flutter,nuxt,vue,tailwind,laravel,ts,php,js" alt="tech stack" />
 </p>
 
-## Tentang aku
-- 🔭 Fokus: aplikasi mobile dengan Flutter, front‑end dengan Nuxt/Vue + Tailwind, back‑end dengan Laravel (PHP), dan TypeScript/JavaScript untuk tooling.
-- 🌱 Belajar: best practices untuk scalable front‑end dan clean architecture di Flutter/Laravel.
-- ⚙️ Senang: komponen UI reusable, API yang rapi, dan DX yang nyaman.
+## About Me
+- 🔭 Focus: mobile apps with Flutter; front-end with Nuxt/Vue + Tailwind; back-end with Laravel (PHP); TypeScript/JavaScript for tooling.
+- 🌱 Learning: best practices for scalable front-end and clean architecture in Flutter/Laravel.
+- ⚙️ I enjoy building reusable UI components, clean APIs, and a great developer experience.
 
-## Kontak
+## Contact
 
 - Email: <a href="mailto:rizkyputraednar@gmail.com">rizkyputraednar@gmail.com</a>
- - HP: <a href="https://wa.me/6282230555507">082230555507</a>
+- HP: <a href="https://wa.me/6282230555507">082230555507</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/rizky-p-b658371ba/">rizky-p-b658371ba</a>
 
 ## Experience
