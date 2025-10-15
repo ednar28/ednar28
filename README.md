@@ -1,5 +1,7 @@
 # Hi, I'm **Rizky Putra Ednar** 👋
 
+> Build Modern Web Apps
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ednar28&color=brightgreen"><img src="https://komarev.com/ghpvc/?username=ednar28&color=brightgreen" alt="profile views"></a>
 </p>
@@ -16,6 +18,8 @@
 - ⚙️ I enjoy building reusable UI components, clean APIs, and a great developer experience.
 
 ## Contact
+
+I offer freelance services as a professional web apps developer. If you need a high‑quality application or website, feel free to contact me. I’m ready to help bring your digital needs to life with creative and effective solutions.
 
 - Email: <a href="mailto:rizkyputraednar@gmail.com">rizkyputraednar@gmail.com</a>
 - HP: <a href="https://wa.me/6282230555507">082230555507</a>
