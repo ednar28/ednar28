@@ -39,14 +39,14 @@ Jun 2020 – Jan 2025 · Surabaya, East Java, Indonesia
 - Defined features such as special item promos and vouchers.
 - Created websites and converted them into Android apps.
 - Contributed to UI design and user flows for both client‑side and admin side.
-- Tech: Laravel, Java, and 5+ related skills.
+- Tech: Laravel, Vue, Typescript, Tailwindcss, Java, Flutter.
 
 ### Web Programmer — CV Semangat Bersama · Freelance
 Jan 2021 – Dec 2024 · Surabaya, East Java, Indonesia
 
 - Designed and developed a web app for a warehousing system.
 - Defined features such as goods sales, store promotions, and special items.
-- Tech: Laravel, Vue.js, and 3+ related skills.
+- Tech: Laravel, Vue, Typescript, Tailwindcss.
 
 ## Example Code
 - Backend: https://github.com/ednar28/crm-simple
