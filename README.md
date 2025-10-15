@@ -23,7 +23,7 @@
 
 ## Experience
 
-### Frontend Developer — PT Tokocenderil Karya Utama · Contract
+### Frontend Developer — PT Tokoonderdil Karya Utama · Contract
 Feb 2025 – Present · Jakarta, Indonesia · On‑site
 
 - Migrated the UI framework from View‑UI‑Plus to shadcn‑vue.
@@ -31,7 +31,7 @@ Feb 2025 – Present · Jakarta, Indonesia · On‑site
 - Enhanced and extended features for an insurance application, transitioning from FSD to Nuxt.
 - Tech: Flutter, Nuxt.
 
-### Web Programmer — Gradin Digital Agency · Full‑time
+### Web Programmer — CV Gradin Digital Agency · Full‑time
 Jun 2020 – Jan 2025 · Surabaya, East Java, Indonesia
 
 - Developed websites and apps such as E‑Commerce, E‑Catering, a Coaching Web App, and more.
@@ -41,7 +41,7 @@ Jun 2020 – Jan 2025 · Surabaya, East Java, Indonesia
 - Contributed to UI design and user flows for both client‑side and admin side.
 - Tech: Laravel, Java, and 5+ related skills.
 
-### Web Programmer — Semangat Bersama · Freelance
+### Web Programmer — CV Semangat Bersama · Freelance
 Jan 2021 – Dec 2024 · Surabaya, East Java, Indonesia
 
 - Designed and developed a web app for a warehousing system.
