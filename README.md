@@ -9,7 +9,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,ts,js,nuxt,vue,astro,tailwind,laravel,php" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,ts,js,nuxt,vue,astro,tailwind,php,laravel" alt="tech stack" />
 </p>
 
 ## About Me
