@@ -9,10 +9,11 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,nuxt,vue,tailwind,laravel,ts,php,js" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,ts,js,nuxt,vue,astro,tailwind,laravel,php" alt="tech stack" />
 </p>
 
 ## About Me
+
 - 🔭 Focus: mobile apps with Flutter; front-end with Nuxt/Vue + Tailwind; back-end with Laravel (PHP); TypeScript/JavaScript for tooling.
 - 🌱 Learning: best practices for scalable front-end and clean architecture in Flutter/Laravel.
 - ⚙️ I enjoy building reusable UI components, clean APIs, and a great developer experience.
@@ -28,6 +29,7 @@ I offer freelance services as a professional web apps developer. If you need a h
 ## Experience
 
 ### Frontend Developer — PT Tokoonderdil Karya Utama · Contract
+
 Feb 2025 – Present · Jakarta, Indonesia · On‑site
 
 - Migrated the UI framework from View‑UI‑Plus to shadcn‑vue.
@@ -36,6 +38,7 @@ Feb 2025 – Present · Jakarta, Indonesia · On‑site
 - Tech: Flutter, Nuxt.
 
 ### Web Programmer — CV Gradin Digital Agency · Full‑time
+
 Jun 2020 – Jan 2025 · Surabaya, East Java, Indonesia
 
 - Developed websites and apps such as E‑Commerce, E‑Catering, a Coaching Web App, and more.
@@ -46,6 +49,7 @@ Jun 2020 – Jan 2025 · Surabaya, East Java, Indonesia
 - Tech: Laravel, Vue, Typescript, Tailwindcss, Java, Flutter.
 
 ### Web Programmer — CV Semangat Bersama · Freelance
+
 Jan 2021 – Dec 2024 · Surabaya, East Java, Indonesia
 
 - Designed and developed a web app for a warehousing system.
@@ -53,10 +57,12 @@ Jan 2021 – Dec 2024 · Surabaya, East Java, Indonesia
 - Tech: Laravel, Vue, Typescript, Tailwindcss.
 
 ## Example Code
+
 - Backend: https://github.com/ednar28/crm-simple
 - Frontend: https://github.com/ednar28/movie-web
 
 ## Statistics
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ednar28&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
